@@ -10,4 +10,4 @@ Week 2 Assignment : Landing Page using CSS
 
 Week 3 Assignment : Form Validation using Javascript
 
-[Different Projects are in Different Branches]
+[Different Projects are in Different Branches within this respiratory]
