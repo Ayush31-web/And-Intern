@@ -1,4 +1,4 @@
-# AND-Intern
+# Web Developement (Frontend and api)
 
 Major Project : Weather Forecast Web Application
 
